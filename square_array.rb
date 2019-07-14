@@ -1,5 +1,6 @@
 def square_array(array)
-  array.collect { |x| x**2 }
+  array.collect do |x| x**2 
+end
 end
 
 =begin 
