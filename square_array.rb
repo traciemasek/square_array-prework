@@ -10,4 +10,4 @@ squares = []
     squares << x**2
   end
   squares
-  =end
+=end
